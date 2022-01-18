@@ -2,6 +2,8 @@
 
 <!-- Have to configure FIREBASE AUTH  -->
 
+<!-- PATH: src/firebase/index.js -->
+
 ## Project setup
 
 ```
